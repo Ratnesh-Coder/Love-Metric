@@ -10,26 +10,6 @@ The project is maintained as a versioned series, with each version representing 
 
 ---
 
-## 🎯 Problem Statement
-
-Chat conversations contain a large amount of behavioral information, but it is difficult to manually identify patterns across hundreds or thousands of messages.
-
-People may want to understand questions such as:
-
-- Who contributes more to the conversation?
-- How quickly does each person usually respond?
-- How balanced is conversation initiation?
-- How often do messages contain questions or substantive responses?
-- What emoji and language patterns appear?
-- How does communication change over time?
-- Which observable communication patterns stand out?
-
-Love Metric explores these questions using measurable communication data rather than relying only on intuition.
-
-> **Important:** Communication data can reveal patterns in a conversation, but it cannot determine someone's private feelings, romantic intentions, psychological state, faithfulness, or whether a relationship will last.
-
----
-
 ## 💡 How It Works
 
 Love Metric runs the analysis directly in the browser.
@@ -84,7 +64,6 @@ The repository contains three development versions.
 LoveMetric/
 │
 ├── README.md
-├── LICENSE
 │
 ├── v1/
 │   └── index.html
@@ -533,68 +512,6 @@ Communication style varies significantly between people, so numerical scores and
 
 ---
 
-# 🎯 Project Objectives
-
-The project aims to demonstrate how raw conversational data can be transformed into meaningful, measurable communication insights.
-
-The main objectives are:
-
-- Analyze real-world chat exports
-- Extract structured message data
-- Calculate communication metrics
-- Visualize behavioral patterns
-- Compare communication behavior between participants
-- Detect temporal communication trends
-- Provide evidence behind detected patterns
-- Maintain client-side privacy
-- Explore responsible interpretation of conversational data
-
----
-
-# 📚 Concepts Demonstrated
-
-This project provides practical experience with:
-
-- Client-side web development
-- HTML5
-- CSS3
-- JavaScript
-- File APIs
-- Text parsing
-- JSON parsing
-- HTML parsing
-- Regular expressions
-- Statistical-style metrics
-- Time-series analysis
-- Behavioral feature extraction
-- Data visualization
-- Interactive dashboards
-- Responsive UI design
-- Privacy-focused application architecture
-- Evidence-based interpretation
-
----
-
-# 🔮 Future Improvements
-
-Potential future development areas include:
-
-- Additional messaging-platform formats
-- More robust export-format detection
-- Improved multilingual text analysis
-- Advanced conversation segmentation
-- Better baseline normalization
-- Additional communication metrics
-- Exportable analysis reports
-- PDF report generation
-- Improved accessibility
-- More visualization options
-- Automated test coverage
-- Modular JavaScript architecture
-- More rigorous statistical validation
-
----
-
 # 📌 Project Status
 
 **Active Student / Personal Research Project**
@@ -625,5 +542,3 @@ https://github.com/Ratnesh-Coder
 # 📄 License
 
 This project is maintained as a personal/student project.
-
-See the [`LICENSE`](LICENSE) file for the applicable license terms.
