@@ -10,6 +10,44 @@ The project is maintained as a versioned series, with each version representing 
 
 ---
 
+## 🎯 Problem Statement
+
+Let’s be honest — **we’ve all been there.** 😭
+
+You’re chatting with someone and suddenly your brain becomes a full-time FBI analyst:
+
+- “Do they actually like me?”
+- “Why did they reply in 2 minutes yesterday but 2 hours today?”
+- “Am I getting the same energy back, or am I carrying this conversation?”
+- “Was that heart emoji meaningful or am I just delulu?” 💀
+- “Are they interested… or are they just being nice?”
+
+And then you start analyzing message timings, emojis, who started the conversation, who asked more questions, and basically everything except the actual conversation. 😭
+
+The problem is simple:
+
+> **When we chat with someone, we can observe how they communicate with us, but we cannot directly know whether they actually like us, are interested in us, or are simply being friendly.**
+
+That’s where **Love Metric** comes in.
+
+Instead of relying entirely on overthinking, Love Metric analyzes observable communication patterns in a chat and converts them into measurable insights — because apparently, when feelings get confusing, **we need data and charts.** 📊💀
+
+The project looks at things such as:
+
+- Who initiates conversations
+- Who contributes more messages
+- Reply speed and responsiveness
+- Conversation depth
+- Engagement and question frequency
+- Emotional warmth
+- Emoji and word patterns
+- Consistency over time
+- Changes in communication patterns
+
+> ⚠️ **Important:** Love Metric does **not** read minds and cannot determine someone's actual feelings. It only analyzes patterns visible in the conversation.
+
+---
+
 ## 💡 How It Works
 
 Love Metric runs the analysis directly in the browser.
@@ -509,6 +547,44 @@ Chat data alone cannot reliably determine:
 - Whether a relationship will last
 
 Communication style varies significantly between people, so numerical scores and detected patterns should be interpreted as **descriptive indicators of the analyzed conversation**, not objective facts about the people involved.
+
+---
+
+# 🎯 Project Objectives
+
+Take the chat, crunch the data, and see whether the conversation shows signs that the other person **might be interested** — because apparently asking them directly is harder than building an entire analytics dashboard. 💀📊
+
+The main objectives of Love Metric are to:
+
+- Analyze real-world chat exports from supported platforms.
+- Measure who initiates conversations and who contributes more.
+- Analyze reply times and overall responsiveness.
+- Examine engagement, warmth, questions, and conversation depth.
+- Study emoji usage and word patterns.
+- Identify observable communication patterns and behavioral trends.
+- Detect changes in communication over time.
+- Generate a **Connection Score** based on measurable communication dimensions.
+- Present the results through an easy-to-understand visual report.
+- Keep chat analysis primarily client-side to support user privacy.
+- Turn the classic **“Do they like me or am I just delulu?”** question into a fun data-analysis experiment. 😭📊
+
+## 🧠 The Big Disclaimer
+
+The result **does NOT guarantee** that someone likes you, dislikes you, is romantically interested in you, or will become interested in you.
+
+**Love Metric is just a fun project that analyzes communication patterns.**
+
+A high score does **not** mean:
+
+> 💍 “Congratulations, you’re getting married.”
+
+And a low score does **not** mean:
+
+> 😭 “It’s over. Delete the chat.”
+
+The results should be treated as **interesting observations, not proof of someone's feelings**.
+
+At the end of the day, the only truly reliable way to know how someone feels is still **actual human communication.** ❤️
 
 ---
 
